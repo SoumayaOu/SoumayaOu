@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm soumaya oukada</h1>
-<h3 align="center">A passionate web developement and data science from Morocco</h3>
+<h3 align="center">A passionate software engineer from Morocco</h3>
 
 
 
