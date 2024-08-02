@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm soumaya oukada</h1>
-<h3 align="center">A passionate software engineer from Morocco</h3>
+<h3 align="center">Software Engineer </h3>
 
 
 
-- 🌱 I’m currently learning **deep learning**
 
 - 💬 Ask me about **python **
 
